@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "squirrel-pcb")(type KiCad)(uri "$(KIPRJMOD)/squirrel-pcb.pretty")(options "")(descr ""))
+)
